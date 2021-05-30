@@ -1,0 +1,13 @@
+[05-Nov-2020 09:57:10 UTC] PHP Warning:  Module 'grpc' already loaded in Unknown on line 0
+[05-Nov-2020 09:57:50 UTC] PHP Warning:  Module 'grpc' already loaded in Unknown on line 0
+[05-Nov-2020 09:59:45 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Nov-2020 09:59:47 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Nov-2020 09:59:55 UTC] PHP Warning:  Module 'grpc' already loaded in Unknown on line 0
+[05-Nov-2020 10:03:10 UTC] PHP Warning:  Module 'grpc' already loaded in Unknown on line 0
+[05-Nov-2020 10:03:36 UTC] PHP Warning:  Module 'grpc' already loaded in Unknown on line 0
+[05-Nov-2020 10:04:15 UTC] PHP Warning:  Module 'grpc' already loaded in Unknown on line 0
+[05-Nov-2020 10:04:59 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Nov-2020 10:05:02 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Nov-2020 10:05:13 UTC] PHP Warning:  Module 'grpc' already loaded in Unknown on line 0
+[28-Dec-2020 09:39:26 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Dec-2020 09:40:17 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 134217736 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/RuleSet.php on line 84
